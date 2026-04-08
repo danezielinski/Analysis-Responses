@@ -47,7 +47,7 @@
 
 ### **Slide 7: The Path Forward & Expected Outcome**
 *   **Key Focus:** The "Intelligence Backbone" and future demos.
-> "The path forward is about establishing this as our **Intelligence Backbone.** By bridging the gap between internal telemetry and 3rd-party data, we’re creating a more inclusive and powerful detection environment. This is the first step in a broader strategy to ensure our automation suite is as informed and as fast as the threats we're fighting."
+> "The path forward is about establishing our 3rd-party intelligence. By bridging the gap between internal telemetry and 3rd-party data, we’re creating a more inclusive and powerful detection environment. This is the first step in a broader strategy to ensure our automation suite is as informed and as fast as the threats we're fighting."
 
 ---
 
