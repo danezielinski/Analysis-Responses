@@ -60,6 +60,12 @@
 ### **Slide 9: LIVE DEMO TRANSITION**
 *   **Key Focus:** Moving from theory to practice.
 > "I’ve talked about the theory; now let’s look at the reality. I’m going to show you exactly how this looks in the live environment."
+>
+> "Axios detections two weeks ago"
+>
+> 'sfrclak.com'
+>
+> 'callnrwise.com'
 
 ---
 
