@@ -6,7 +6,9 @@
 ### **Slide 1: Title Slide – RC-INTEL IOC Enrichment Agent**
 *   **Key Focus:** Introduction and setting the stage for the unified suite of agents.
 > "Good afternoon, everyone. I’m **Dane Zielinski, a Senior Detection Automation Engineer on the DAE team.** I’m excited to kick off what will be a series of demos showcasing a **unified suite of specialized agents** we’ve been developing. Each of these agents is designed to build on the work of the last, creating a seamless flow of intelligence from ingestion to action.
-> 
+>
+> "I'd like to also thank Justin for all his backend work developing much of what this agent does."
+>  
 > We’re starting today with the RC-INTEL IOC Enrichment Agent. The core philosophy here is inclusivity—specifically, how we can better leverage **3rd-party intelligence** to round out the picture. While our internal telemetry is world-class, this agent fills a critical gap by providing the external reputation and context needed to make our detections truly comprehensive."
 
 ---
