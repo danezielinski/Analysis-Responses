@@ -33,9 +33,9 @@
 
 ### **Slide 5: Post-Transformation – The "Upstream Catalyst"**
 *   **Key Focus:** Personal workflow anecdote and automating the "Detective Work."
-> "If you look at these screenshots from our current portal, you see the reality we face every day. Often, an Intel profile gives us less than a single sentence of description with hopefully a external reference link. Even when we pivot to VirusTotal, it’s hit-or-miss. Many times, the hash isn't even in VT yet, leaving us with zero context.
+> "If you look at these screenshots from our current portal, you see the reality we face every day. Often, an Intel profile gives us less than a single sentence describing the IOC and if we are lucky a external reference link. Even when we pivot to VirusTotal, it’s hit-or-miss. Many times, the hash isn't even in VT yet, leaving us with zero context.
 > 
-> **When I personally handle an Intel-based investigation, I’m not just looking at a detection count.** I’m diving into the **Community and Behavior sections of VT** to actually understand the 'How' and the 'Why.' I’m also spending significant time digging through our own **prior investigations** to see why an IOC was added and how a peer wrote it up prior.
+> **When I personally handle an Intel-based investigation, I’m not just looking at overall detection count in VT.** I’m diving into the **Community and Behavior sections** to actually understand the 'How' and the 'Why.' I’m also spending significant time digging through our own **prior investigations** to see why an IOC was added and how a peer wrote it up prior.
 > 
 > That 'detective work' is vital, but it’s incredibly time-consuming. The RC-INTEL Agent transforms this by automating that deep-dive. It pulls that community sentiment, behavioral analysis, and historical context into the record 'at birth,' ensuring that when a Detection Engineer or Future Automation perfroms an investigation, the story is already told."
 
