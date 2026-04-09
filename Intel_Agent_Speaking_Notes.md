@@ -71,4 +71,6 @@
 
 ### **Slide 10: The Outcome – A Unified Approach**
 *   **Key Focus:** Final summary and looking ahead.
+> " We are looking forward to working with Tony Lambert and Christina Johns from intel around improving this agent. We have talked about VMRay a (Malware Anaylsis and Detentation tool) and taking its outputs and ingesting them into this system."
+>
 > "To wrap up: we are establishing a new reality for Detection Engineering—one where the 'First Mile' of research is a solved problem. By rounding out our picture with automated 3rd-party intelligence, we're building a faster, more inclusive foundation for our entire team. Thank you for your time, and we look forward to showing you how the next agents in this suite will build on this foundation in our upcoming demos."
